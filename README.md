@@ -68,7 +68,7 @@ Migration into this repo is gradual; "Lives today" names the current normative h
 | Stamping | 📝 pre-NIP | tapestry/protocols/drafts/ |
 | Profile Presentation | 📝 pre-NIP | [Brainstorm-UI/docs/nips/](https://github.com/NosFabrica/Brainstorm-UI/blob/main/docs/nips/profile-presentation.md) |
 | Trusted Assertions consumer spec (kind 30382: `rank`, `hops` semantics) | 📝 pre-NIP | [specs/trusted-assertions.md](./specs/trusted-assertions.md) |
-| GrapeRank output semantics | 💭 planned | to be written here |
+| GrapeRank — personalized trust-score computation | 📝 pre-NIP | [specs/graperank.md](./specs/graperank.md) |
 
 ## How a spec gets here
 
